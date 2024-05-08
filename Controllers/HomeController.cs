@@ -15,7 +15,7 @@ namespace Onlinequiz.Controllers
 
         public IActionResult Index()
         {
-            return View();
+           
         }
 
         public IActionResult Privacy()
