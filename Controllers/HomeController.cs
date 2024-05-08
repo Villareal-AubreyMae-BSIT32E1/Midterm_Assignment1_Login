@@ -15,7 +15,7 @@ namespace Onlinequiz.Controllers
 
         public IActionResult Index()
         {
-           
+           Midterm_Assignment1_Login
         }
 
         public IActionResult Privacy()
